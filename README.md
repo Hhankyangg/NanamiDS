@@ -11,5 +11,6 @@
 - https://cs61b-2.gitbook.io/cs61b-textbook/
 - https://sp18.datastructur.es/
 - https://fa23.datastructur.es/
+- https://oi-wiki.org/
 - https://github.com/fishaudio/Bert-VITS2
 - https://www.modelscope.cn/studios/xzjosh/Bert-VITS2
