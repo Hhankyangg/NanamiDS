@@ -2,3 +2,8 @@
 *.mp4
 *.pptx
 *.ppt
+lecture*.jpg
+lecture-img/
+lecture-voice/
+pr-proj/
+*.acc
