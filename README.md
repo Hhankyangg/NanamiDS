@@ -14,3 +14,5 @@
 - https://oi-wiki.org/
 - https://github.com/fishaudio/Bert-VITS2
 - https://www.modelscope.cn/studios/xzjosh/Bert-VITS2
+- https://zh.wikipedia.org/zh-cn/%E5%B9%B3%E8%A1%A1%E6%A0%91
+- https://www.cs.usfca.edu/~galles/visualization/BTree.html
